@@ -1,0 +1,21 @@
+{
+  "MAJOR_UK": {
+    "static": {
+      "1/1": "New Year's Day",
+      "1/2": "Scotland New Year Day",
+      "3/18": "St. Patrick Day",     
+      "4/19: "Good Friday",
+      "4/22": "Easter Monday",
+      "5/6": "May Bank Holiday"
+    }
+    "dynamic": {
+      "1/21/2019": "MLK Day",
+      "1/20/2020": "MLK Day",
+      "1/18/2021": "MLK Day",
+      "1/17/2022": "MLK Day",
+      "1/16/2023": "MLK Day",
+      "1/15/2024": "MLK Day",
+      "1/20/2025": "MLK Day"
+     }
+   } 
+}
